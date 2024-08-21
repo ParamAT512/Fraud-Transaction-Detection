@@ -6,6 +6,15 @@ This project involves developing a machine learning model to predict fraudulent 
 
 **Important Note:** The dataset used in this project is not owned by me. It is provided for educational and research purposes. All rights and permissions related to the dataset are held by the original owner.
 
+### Data Access
+To replicate this analysis, you will need to access the dataset used for this project. Please download the dataset from the following link:
+
+- **[Download Dataset](https://drive.google.com/file/d/1hKuOvYlADY0CT0kG2kL2vV1btXSvfddu/view?usp=sharing)**
+
+Important: This dataset is provided for educational and research purposes. The dataset’s ownership and permissions are held by the original provider. Be sure to review and adhere to any usage terms associated with the dataset.
+
+For details on the dataset’s structure and features, refer to the [Data Description](https://drive.google.com/file/d/1NKF-VLlAK2RkeTaqw7A4UBy_72zYH9oC/view?usp=sharing) File.
+
 ### Data Description
 
 The dataset includes the following columns:
