@@ -71,13 +71,5 @@ The dataset includes the following columns:
 - `model_training.py`: Script for training and evaluating machine learning models.
 - `insights_and_recommendations.pdf`: Document detailing the insights from the model and recommended actions.
 
-### Getting Started
 
-1. **Set Up Environment:** Ensure all necessary libraries are installed. Consider using a virtual environment to manage dependencies.
-
-2. **Run Preprocessing:** Execute `data_preprocessing.py` to prepare the data for modeling.
-
-3. **Train Models:** Use `model_training.py` to train and evaluate different machine learning models.
-
-4. **Review Insights:** Examine `insights_and_recommendations.pdf` to understand the model’s findings and the proposed action plan.
 
